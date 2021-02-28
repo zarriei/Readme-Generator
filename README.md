@@ -1,5 +1,5 @@
 
-# <h1 align="center"> Read Me Generator</h1>
+# <h1 align="center"> Team Profile Generator</h1>
 
 ## Badges
     
@@ -7,7 +7,7 @@
 
 ## Description
 
-    To make things simplier for future assignments since a readME is required not just in school but in the real world as well.
+    To generate Team Profiles
 
  
 
@@ -24,11 +24,11 @@
 
 ## Installation
 
-    Watch this video.
+    Emulate Video Walk-thru
 
 ## Usgae
 
-    To generate a readME
+    To dynamically generate a Team Profile based on emoloyee type
 
 ## Contribution
 
@@ -39,7 +39,7 @@
 This application uses the MIT license
 
 ## Test
-https://drive.google.com/file/d/1QqTh-iuR5VfWDqfGZW00TMwuYA2n230r/view
+
 
 ## Questions
 
